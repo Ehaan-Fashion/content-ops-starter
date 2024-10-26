@@ -7,7 +7,7 @@ sections:
       text: 'Moissanite Diamond Rings: Affordable Elegance and Ethical Brilliance'
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: ''
     text: >+
       Explore the latest trends in fashion with our featured blog post! Discover
       styling tips, must-have pieces for every season, and insider insights to
