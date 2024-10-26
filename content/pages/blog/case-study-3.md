@@ -1,5 +1,5 @@
 ---
-title: Case study 3
+title: Your Digital Writing Companion. Stylus Touch Pen
 slug: case-study-3
 date: '2021-11-18'
 excerpt: >-
