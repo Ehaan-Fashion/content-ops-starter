@@ -38,8 +38,9 @@ styles:
 seo:
   metaTitle: Ehaan Fashion - Your Online Blog Partner
   metaDescription: >-
-    This is the blog of the demo site where we post about technology, product,
-    and design.
+    "Welcome to Ehaan Fashion, your ultimate destination for the latest trends
+    and style inspiration. Explore our curated blog for fashion tips, styling
+    advice, and insights.
   socialImage: /images/img-placeholder.svg
   type: Seo
 type: PostFeedLayout
