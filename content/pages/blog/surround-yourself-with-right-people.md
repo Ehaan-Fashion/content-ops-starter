@@ -1,5 +1,5 @@
 ---
-title: '"Unbreakable Curtain Rod Holder: Durable Home Decor Solutions for Every Style"'
+title: 'Unbreakable Curtain Rod Holder: Durable Home Decor Solutions for Every Style'
 slug: surround-yourself-with-right-people
 date: '2023-03-26'
 excerpt: >-
