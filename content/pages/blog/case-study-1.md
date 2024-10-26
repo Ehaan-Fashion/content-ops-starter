@@ -9,7 +9,7 @@ excerpt: >-
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
   url: /images/R Yellow 1 1-Photoroom.png
-  altText: Case study 1
+  altText: Curtain Rod Holder for Home Decoration
   styles:
     self:
       borderRadius: large
