@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Ultimate Guide to Stylus Pen
 slug: /blog
 numOfPostsPerPage: 12
 enableSearch: true
