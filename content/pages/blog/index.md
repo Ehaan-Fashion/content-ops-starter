@@ -36,7 +36,7 @@ styles:
   title:
     textAlign: center
 seo:
-  metaTitle: Blog - Demo site
+  metaTitle: Ehaan Fashion - Your Online Blog Partner
   metaDescription: >-
     This is the blog of the demo site where we post about technology, product,
     and design.
