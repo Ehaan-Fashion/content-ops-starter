@@ -8,7 +8,12 @@ topSections:
       text: Featured Post
       color: text-dark
       type: TitleBlock
-    subtitle: This is the subtitle
+    subtitle: >-
+      "Explore the latest trends in fashion with our featured blog post!
+      Discover styling tips, must-have pieces for every season, and insider
+      insights to elevate your wardrobe. Whether you’re looking for casual chic
+      or elegant evening wear, this post has something for everyone. Stay ahead
+      of the curve and redefine your style today!"
     posts:
       - content/pages/blog/top-ten-lessons-we-learned.md
     showThumbnail: true
