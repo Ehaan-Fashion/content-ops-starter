@@ -41,7 +41,7 @@ seo:
     "Welcome to Ehaan Fashion, your ultimate destination for the latest trends
     and style inspiration. Explore our curated blog for fashion tips, styling
     advice, and insights.
-  socialImage: /images/img-placeholder.svg
+  socialImage: /images/logo.jpg
   type: Seo
 type: PostFeedLayout
 bottomSections: []
