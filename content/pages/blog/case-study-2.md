@@ -1,5 +1,5 @@
 ---
-title: Case study 2
+title: Silver Heart Jewelry Set for Women
 slug: case-study-2
 date: '2022-02-16'
 excerpt: >-
