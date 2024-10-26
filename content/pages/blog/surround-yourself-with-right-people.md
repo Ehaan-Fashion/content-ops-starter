@@ -3,8 +3,12 @@ title: 'Unbreakable Curtain Rod Holder: Durable Home Decor Solutions for Every S
 slug: surround-yourself-with-right-people
 date: '2023-03-26'
 excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+  Discover the unbreakable curtain rod holder, designed to provide ultimate
+  durability and style for your home. This innovative holder supports heavy
+  drapes with ease, ensuring your curtains stay securely in place. Available in
+  various finishes, it seamlessly complements any decor, making it the perfect
+  choice for both modern and classic interiors. Upgrade your window treatment
+  with a solution that combines strength and elegance!2o mini
 featuredImage:
   altText: Thumbnail
   type: ImageBlock
