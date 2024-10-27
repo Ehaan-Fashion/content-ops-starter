@@ -804,7 +804,7 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
   - title:
-      text: '"Contact Us - Get in Touch for Inquiries and Support"'
+      text: Contact Us - Get in Touch for Inquiries and Support
       color: text-dark
       type: TitleBlock
     subtitle: 'Your Questions Matter: We''re Here to Help!'
