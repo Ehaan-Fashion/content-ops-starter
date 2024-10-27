@@ -553,8 +553,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is a plan for arranging elements in such a way as best to
-          accomplish a particular purpose."
+          "Design, Develop and SEO is a plan for arranging elements in such a
+          way as best to accomplish a particular purpose."
         tagline: Testimonial 2
         subtitle: 'Asghar Ali, Gulnaz Fashion'
         text: >+
