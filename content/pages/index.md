@@ -697,7 +697,7 @@ sections:
       type: TitleBlock
     subtitle: Fashion at Your Door Step
     items:
-      - title: Feature Item One
+      - title: Silver Moissanite Ring
         tagline: Fashion
         subtitle: This is the item subtitle
         text: |
