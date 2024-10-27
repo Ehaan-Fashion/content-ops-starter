@@ -808,11 +808,13 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Section with a form subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+
+      Reach out to us for any questions, feedback, or support! Our dedicated
+      team is here to assist you with your inquiries. Whether you need help with
+      our products or services, we’re just a message away. Get in touch today
+      and let us help you!
+
     media:
       fields:
         - name: name
