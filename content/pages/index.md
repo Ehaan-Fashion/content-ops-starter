@@ -62,7 +62,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: 'Pure Fashion Blog, Article Writing'
     items:
       - type: FeaturedItem
         title: 500k
