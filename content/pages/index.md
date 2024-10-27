@@ -931,7 +931,7 @@ sections:
     colors: bg-light-fg-dark
     type: GenericSection
 seo:
-  metaTitle: Home - Your Ultimate Guide to Blogging
+  metaTitle: Ehaan Fashion - Your Ultimate Guide to Blogging
   metaDescription: >-
     Join our community to share ideas, find inspiration, and elevate your
     blogging journey today!
