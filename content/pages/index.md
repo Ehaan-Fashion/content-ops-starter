@@ -320,7 +320,7 @@ sections:
       engagement in the digital space.
 
     media:
-      title: Title of the video
+      title: How Stylus Pen Works?
       url: /images/placeholder-video.mp4
       controls: false
       aspectRatio: '16:9'
