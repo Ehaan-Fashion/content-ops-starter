@@ -182,7 +182,7 @@ sections:
         type: FeaturedItem
       - title: 200%
         subtitle: Faster
-        text: >+
+        text: >
           "Faster" typically refers to increased speed or efficiency in
           performing tasks, processes, or actions. It implies a quickened pace,
           whether in physical movement, response time, or the speed of
@@ -191,40 +191,28 @@ sections:
           time taken to achieve results.
 
 
-          **Quick Response Times**: Immediate assistance and timely responses to
-          inquiries enhance customer satisfaction.
+          **Quick Response Times**
 
 
-          **Efficient Processing**: Streamlined workflows and optimized
-          procedures minimize delays and expedite service delivery.
+          **Efficient Processing**
 
 
-          **Enhanced Productivity**: Faster services enable quicker turnaround
-          times, allowing businesses to serve more clients effectively.
+          **Enhanced Productivity**
 
 
-          **Real-Time Updates**: Customers receive instant notifications and
-          updates, keeping them informed throughout the service process.
+          **Real-Time Updates**
 
 
-          **Convenience**: Quick services improve user experience, making it
-          easier for customers to access what they need without unnecessary
-          waiting.
+          **Convenience**
 
 
-          **Increased Satisfaction**: Speedy service fosters positive
-          relationships, encouraging repeat business and customer loyalty.
+          **Increased Satisfaction**
 
 
-          **Competitive Advantage**: Offering faster services sets a business
-          apart in a crowded market, attracting more clients.
+          **Competitive Advantage**
 
 
-          **Flexible Options**: Fast service options often include express
-          delivery or rapid support, catering to urgent needs.
-
-
-
+          **Flexible Options**
         image:
           url: /images/icon3.svg
           altText: Featured icon three
