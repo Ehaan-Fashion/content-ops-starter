@@ -357,7 +357,7 @@ sections:
     type: GenericSection
   - type: GenericSection
     title:
-      text: Generic section with a video
+      text: Stylish and Elegant Curtain Rod Holder for Home Decoration
       color: text-dark
       styles:
         self:
