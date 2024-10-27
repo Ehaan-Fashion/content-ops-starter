@@ -162,7 +162,7 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
 seo:
-  metaTitle: Careers - Join us
+  metaTitle: Ehaan Fashion Careers - Join us
   metaDescription: >-
     Join the Ehaan Fashion team and elevate your career in the dynamic world of
     fashion! 
