@@ -704,7 +704,7 @@ sections:
           Follow the tutorial to build your first Netlify Create site.
         image:
           url: /images/Moisaanite 1 4.webp
-          altText: Placeholder Image
+          altText: 925 Silver Moissanite Ring
           styles:
             self:
               borderRadius: x-large
