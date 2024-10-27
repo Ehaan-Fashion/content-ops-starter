@@ -434,7 +434,7 @@ sections:
       altText: Fun feature preview
       type: ImageBlock
     badge:
-      label: Importance of Social Media
+      label: Tech World
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
