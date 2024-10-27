@@ -160,7 +160,9 @@ sections:
     type: FeaturedItemsSection
 seo:
   metaTitle: Careers - Join us
-  metaDescription: This is the careers page built with Netlify Create.
+  metaDescription: >-
+    Join the Ehaan Fashion team and elevate your career in the dynamic world of
+    fashion! 
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
