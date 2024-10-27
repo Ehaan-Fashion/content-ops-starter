@@ -595,10 +595,18 @@ sections:
           make a product aesthetically pleasing, it makes it a pleasure to use."
         tagline: Testimonial 3
         subtitle: 'Khizar Shopify Developer, Exxact Sports'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+
+          "As a sports enthusiast, I’ve read a lot of content, but this sports
+          blog truly stands out! The writing is not only informative but also
+          engaging, making complex statistics and game analyses easy to
+          understand. I love how the author combines expert insights with a
+          relatable tone, which keeps me coming back for more. The coverage of
+          various sports is impressive, and the commentary on recent events
+          feels fresh and timely. It’s clear that the writer is passionate about
+          sports, and that energy shines through in every post. This blog has
+          become my top resource for all things sports!"
+
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
