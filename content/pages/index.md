@@ -932,7 +932,9 @@ sections:
     type: GenericSection
 seo:
   metaTitle: Home - Your Ultimate Guide to Blogging
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: >-
+    Join our community to share ideas, find inspiration, and elevate your
+    blogging journey today!
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
