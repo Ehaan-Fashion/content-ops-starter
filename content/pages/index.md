@@ -730,7 +730,7 @@ sections:
         type: FeaturedItem
       - title: Stylish Curtain Rod Holder
         tagline: Home Decor
-        subtitle: This is the item subtitle
+        subtitle: Decorate Your Home
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
         image:
