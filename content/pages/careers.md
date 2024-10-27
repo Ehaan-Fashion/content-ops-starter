@@ -10,12 +10,15 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: Join Our Team and Shape the Future of Fashion!
-    text: >
-      There are many variations of passages of Lorem Ipsum available, but the
-      majority have suffered alteration in some form, by injected humour, or
-      randomised words which don't look even slightly believable. If you are
-      going to use a passage of Lorem Ipsum, you need to be sure there isn't
-      anything embarrassing hidden in the middle of text.
+    text: >+
+
+      Discover exciting career opportunities at Ehaan Fashion! Our career page
+      showcases a variety of roles across design, marketing, and customer
+      service. We’re looking for passionate individuals who are ready to make an
+      impact in the fashion industry. Join us to unleash your creativity and
+      grow your career in a dynamic and innovative environment. Explore our
+      openings and start your journey with us today!
+
     actions:
       - label: See open positions
         url: /
