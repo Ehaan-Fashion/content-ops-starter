@@ -136,10 +136,16 @@ sections:
               borderRadius: x-large
       - title: 20x
         subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+
+          A stylus pen is a tool designed for use with touchscreen devices,
+          offering precision and control for tasks like drawing, writing, and
+          navigating. With a fine tip for accuracy, it enhances the user
+          experience by reducing fingerprints on screens and allowing for
+          pressure-sensitive input in compatible applications. Available in
+          various styles, including passive and active types, stylus pens are
+          popular among artists, students, and professionals alike.
+
         image:
           url: /images/icon2.svg
           altText: Featured icon two
