@@ -761,7 +761,7 @@ sections:
         type: FeaturedItem
       - title: Silver Jewelry Set for Women
         tagline: Women Fashion
-        subtitle: This is the item subtitle
+        subtitle: Style and Elegance
         text: >
           Learn from the tutorial and build your first awesome Netlify Create
           site.
