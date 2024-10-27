@@ -364,11 +364,19 @@ sections:
           textAlign: left
       type: TitleBlock
     subtitle: Live Demonstration of Curtain Holder
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+
+      A live video curtain holder for home decor is a modern, interactive tool
+      that combines aesthetics with technology. Designed to secure curtains
+      while adding a dynamic visual element, these holders can be showcased in
+      live streaming or video content, enhancing the overall ambiance of a
+      space. Often featuring trendy designs and materials, they complement
+      various interior styles, from minimalist to eclectic. The curtain holders
+      are easy to install and adjust, making them both functional and stylish.
+      Ideal for influencers and home decorators alike, they help create an
+      inviting atmosphere, transforming any room into a visually appealing
+      backdrop for online content.
+
     actions: []
     media:
       title: Title of the video
