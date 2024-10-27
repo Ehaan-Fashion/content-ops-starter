@@ -734,7 +734,7 @@ sections:
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
         image:
-          url: /images/abstract-feature2.svg
+          url: /images/F05 Red 1 2-removebg-preview.jpg
           altText: Placeholder image
           styles:
             self:
