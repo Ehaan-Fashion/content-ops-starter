@@ -731,8 +731,16 @@ sections:
       - title: Stylish Curtain Rod Holder
         tagline: Home Decor
         subtitle: Decorate Your Home
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        text: >+
+
+          Enhance your home decor with our stylish curtain rod holder, designed
+          to blend functionality with elegance. Available in various designs and
+          finishes, these holders provide sturdy support for your curtains while
+          adding a decorative touch to any room. Perfect for living rooms,
+          bedrooms, or dining areas, our curtain rod holders elevate your window
+          treatments and complete your interior aesthetic. Explore our
+          collection to find the perfect match for your style!
+
         image:
           url: /images/F05 Red 1 2-removebg-preview.jpg
           altText: Placeholder image
