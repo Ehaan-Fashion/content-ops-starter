@@ -759,7 +759,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Three
+      - title: Silver Jewelry Set for Women
         tagline: Women Fashion
         subtitle: This is the item subtitle
         text: >
