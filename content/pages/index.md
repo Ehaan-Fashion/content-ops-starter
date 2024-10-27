@@ -699,7 +699,7 @@ sections:
     items:
       - title: Silver Moissanite Ring
         tagline: Fashion
-        subtitle: This is the item subtitle
+        subtitle: Women Fashion
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
