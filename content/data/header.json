@@ -55,7 +55,8 @@
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
-                    "type": "Link"
+                    "type": "Link",
+                    "altText": "writing stylus touch pen"
                 }
             ],
             "labelStyle": "secondary",
