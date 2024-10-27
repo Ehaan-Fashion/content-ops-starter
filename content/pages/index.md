@@ -804,7 +804,7 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
   - title:
-      text: Generic Section With A Form
+      text: '"Contact Us - Get in Touch for Inquiries and Support"'
       color: text-dark
       type: TitleBlock
     subtitle: Section with a form subtitle
