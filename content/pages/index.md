@@ -515,8 +515,8 @@ sections:
     subtitle: What our customers say about us
     items:
       - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+          “An eCommerce Expert knows he has achieved perfection not when there
+          is nothing left to add, but when there is nothing left to take away.”
         tagline: Testimonial 1
         subtitle: 'Tahir Ali, United Lines Associates'
         text: >+
