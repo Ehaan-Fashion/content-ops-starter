@@ -321,7 +321,8 @@ sections:
 
     media:
       title: How Stylus Pen Works?
-      url: 'https://www.youtube.com/shorts/4ndf_OvlFlI'
+      url: >-
+        https://www.youtube.com/watch?v=4ndf_OvlFlI&list=PLzyTkqJbIyzj4TIscNz43lPA-kvhM6bSq&index=9
       controls: false
       aspectRatio: '16:9'
       styles:
