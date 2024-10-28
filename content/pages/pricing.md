@@ -17,7 +17,7 @@ sections:
         price: ''
         details: $10
         description: |
-          **(Site Overview & Technical SEO):** 
+          **Site Overview & Technical SEO**
 
           Here’s a structured **Basic** plan for an effective SEO audit report
 
