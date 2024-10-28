@@ -118,6 +118,7 @@ sections:
           - 'Indexability: Analyze indexed pages using Google Search Console'
           - 'Architecture: Review site structure and navigation.'
           - 'Mobile Friendliness: Assess mobile responsiveness and usability.'
+          - ''
         image:
           url: /images/abstract-feature3.svg
           altText: Pricing plan 3
