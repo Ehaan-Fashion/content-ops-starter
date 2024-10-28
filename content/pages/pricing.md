@@ -259,7 +259,7 @@ sections:
           - One guest post on a relevant blog
           - 'Feature Post, Home Page'
           - 6 Do Follow Links
-          - Feature four
+          - Standard Content. Unlimited words
           - Feature five
         image:
           type: ImageBlock
