@@ -226,7 +226,7 @@ sections:
           - One guest post on a relevant blog
           - Feature Post
           - 4 Do Follow Links
-          - Feature four
+          - Standard Content. 800 words
         image:
           type: ImageBlock
           url: /images/abstract-feature2.svg
