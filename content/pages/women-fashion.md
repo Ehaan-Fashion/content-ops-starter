@@ -103,7 +103,7 @@ slug: women fashion
 isDraft: false
 seo:
   type: Seo
-  metaTitle: Women Fashion
+  metaTitle: Ehaan Women Fashion
   metaDescription: >-
     "Discover the latest trends in women’s fashion! Explore our curated
     collection of stylish jewelry, home decor, accessories."
