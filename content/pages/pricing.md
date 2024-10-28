@@ -9,7 +9,9 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is the subtitle for the pricing section
+    subtitle: >-
+      Assess the Current Performance of a Website and Identify Areas for
+      Improvement
     plans:
       - title: Developers
         price: Free
