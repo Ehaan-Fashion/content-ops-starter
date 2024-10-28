@@ -177,7 +177,7 @@ sections:
   - type: PricingSection
     title:
       type: TitleBlock
-      text: Flexible Pricing
+      text: Guest Posting Services for SEO Success
       color: text-dark
       styles:
         self:
