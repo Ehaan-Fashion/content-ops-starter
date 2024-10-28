@@ -29,7 +29,7 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/hero2.svg
+      url: /images/Moisaanite 1 4.webp
       altText: Fun feature preview
     badge:
       type: Badge
