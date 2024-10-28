@@ -220,9 +220,8 @@ sections:
         title: Professional
         price: $5
         details: per post
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: |
+          Professional Package includes:
         features:
           - Feature one
           - Feature two
