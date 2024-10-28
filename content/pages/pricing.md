@@ -125,6 +125,7 @@ sections:
             of backlinks.Domain Authority: Check domain authority and compare
             with competitors.Social Signals: Evaluate social media presence and
             engagement.
+          - ''
         image:
           url: /images/abstract-feature3.svg
           altText: Pricing plan 3
