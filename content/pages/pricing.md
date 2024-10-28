@@ -192,7 +192,7 @@ sections:
           Basic Package includes:
         features:
           - One guest post on a relevant blog
-          - Feature two
+          - 2 Do Follow Links
           - Feature three
           - Feature four
         image:
