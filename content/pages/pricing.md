@@ -23,6 +23,7 @@ sections:
         features:
           - 'Website URL: Include the URL of the site being audited.'
           - 'Business Goals: Briefly describe the business and its goals.'
+          - ''
           - >-
             Site Architecture: Review site structure and
             navigation.Crawlability: Check robots.txt and sitemap.xml
