@@ -9,7 +9,7 @@ seo:
   metaTitle: Women Fashion
   metaDescription: >-
     "Discover the latest trends in women’s fashion! Explore our curated
-    collection of stylish jewelry, home decor, mobile accessories."
+    collection of stylish jewelry, home decor, accessories."
   addTitleSuffix: true
   socialImage: /images/main-hero.jpg
   metaTags: []
