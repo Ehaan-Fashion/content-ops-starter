@@ -117,6 +117,7 @@ sections:
           - 'Crawlability: Check robots.txt and sitemap.xml files.'
           - 'Indexability: Analyze indexed pages using Google Search Console'
           - 'Architecture: Review site structure and navigation.'
+          - ''
         image:
           url: /images/abstract-feature3.svg
           altText: Pricing plan 3
