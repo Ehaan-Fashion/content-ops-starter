@@ -224,8 +224,8 @@ sections:
           **Site Overview, Technical SEO, On Page, OFF Page, Keywords Analysis**
 
 
-          Here’s a structured plan for an effective Enterprise Professional SEO
-          audit report:
+          Here’s a structured plan for an effective **Enterprise** SEO audit
+          report:
         features:
           - 'Website URL: Include the URL of the site being audited.'
           - 'Business Goals: Briefly describe the business and its goals.'
