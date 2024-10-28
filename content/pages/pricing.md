@@ -230,6 +230,7 @@ sections:
           - Standard Content. 800 words
           - 3 Revisions
           - Instant TAT
+          - ''
         image:
           type: ImageBlock
           url: /images/abstract-feature2.svg
