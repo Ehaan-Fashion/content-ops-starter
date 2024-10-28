@@ -33,7 +33,7 @@
             "links": [
                 {
                     "label": "Women Fashion",
-                    "url": "/women%20fashion",
+                    "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
