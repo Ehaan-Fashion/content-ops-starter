@@ -143,7 +143,11 @@ sections:
     type: PricingSection
 seo:
   metaTitle: 'Pricing - Services SEO, Web Development, eCommerce, Guest Posting'
-  metaDescription: This is the pricing page built with Netlify Create.
+  metaDescription: >-
+    Explore our transparent and competitive pricing for IT Services tailored to
+    fit every budget. Discover the value and flexibility we offer with detailed
+    service packages, ensuring you get the best results without any hidden fees.
+    Get started today!"
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
