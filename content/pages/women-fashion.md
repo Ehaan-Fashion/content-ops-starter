@@ -60,7 +60,7 @@ sections:
             flexDirection: col
             justifyContent: center
       - type: FeaturedItem
-        title: Cotton Knit Throws
+        title: 925 Silver Heart Jewelry Set for Women
         subtitle: $ 44.99 – $ 90
         image:
           type: ImageBlock
