@@ -30,6 +30,7 @@ sections:
             security issues.
           - 'Crawlability: Check robots.txt and sitemap.xml files.'
           - 'Indexability: Analyze indexed pages using Google Search Console'
+          - ''
         image:
           url: /images/abstract-feature1.svg
           altText: Pricing plan 1
