@@ -31,6 +31,7 @@ sections:
             Insights.HTTPS Security: Check for SSL certificate and security
             issues.
           - 'Crawlability: Check robots.txt and sitemap.xml files.'
+          - ''
         image:
           url: /images/abstract-feature1.svg
           altText: Pricing plan 1
