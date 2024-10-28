@@ -110,7 +110,7 @@ sections:
         features:
           - 'Website URL: Include the URL of the site being audited.'
           - 'Business Goals: Briefly describe the business and its goals.'
-          - Feature three
+          - 'Target Audience: Identify the target audience and market.'
           - Feature four
           - Feature five
         image:
