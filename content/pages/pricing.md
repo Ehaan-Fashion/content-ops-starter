@@ -68,7 +68,7 @@ sections:
           - 'Crawlability: Check robots.txt and sitemap.xml files.'
           - 'Indexability: Analyze indexed pages using Google Search Console'
           - 'Architecture: Review site structure and navigation.'
-          - ''
+          - 'Mobile Friendliness: Assess mobile responsiveness and usability.'
         image:
           url: /images/abstract-feature2.svg
           altText: Pricing plan 2
