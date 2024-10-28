@@ -59,7 +59,7 @@ sections:
           report:
 
         features:
-          - Feature one
+          - 'Website URL: Include the URL of the site being audited.'
           - Feature two
           - Feature three
           - Feature four
