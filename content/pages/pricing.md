@@ -225,7 +225,7 @@ sections:
         features:
           - One guest post on a relevant blog
           - Feature Post
-          - Feature three
+          - 4 Do Follow Links
           - Feature four
         image:
           type: ImageBlock
