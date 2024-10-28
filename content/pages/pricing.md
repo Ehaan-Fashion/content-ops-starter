@@ -196,6 +196,7 @@ sections:
           - Standard Content. 500 words
           - 1 Revision
           - Tat 2-6 Hours
+          - ''
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
