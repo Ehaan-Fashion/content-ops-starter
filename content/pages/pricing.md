@@ -195,6 +195,7 @@ sections:
           - 2 Do Follow Links
           - Standard Content. 500 words
           - 1 Revision
+          - ''
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
