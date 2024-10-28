@@ -267,7 +267,7 @@ sections:
           - All Niche Accepted
         image:
           type: ImageBlock
-          url: /images/SEO 3.jpg
+          url: /images/Guest-Posting-Service-for-Business.jpg
           altText: Pricing plan 3
         actions:
           - type: Button
