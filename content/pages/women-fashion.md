@@ -74,7 +74,7 @@ sections:
         colors: bg-light-fg-dark
       - type: FeaturedItem
         title: 1 Carat Moissanite Ring for Women
-        subtitle: $117
+        subtitle: $60
         image:
           type: ImageBlock
           url: /images/Moisaanite 1 4.webp
