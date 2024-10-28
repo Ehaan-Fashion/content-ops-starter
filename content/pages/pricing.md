@@ -187,7 +187,7 @@ sections:
       - type: PricingPlan
         title: Basic
         price: $1
-        details: Per Post
+        details: per post
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
