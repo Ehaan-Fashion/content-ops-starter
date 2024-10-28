@@ -73,7 +73,7 @@ sections:
         actions: []
         colors: bg-light-fg-dark
       - type: FeaturedItem
-        title: Chunky Cotton Knit Throw
+        title: 1 Carat Moissanite Ring for Women
         subtitle: $117
         image:
           type: ImageBlock
