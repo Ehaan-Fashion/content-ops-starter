@@ -59,8 +59,11 @@ sections:
         price: $20
         details: per report
         description: >
-          **(Site Overview, Technical SEO & On Page):** Here’s a structured plan
-          for an effective Intermediate Level SEO audit report:
+          **Site Overview, Technical SEO & On Page**
+
+
+          Here’s a structured plan for an effective Intermediate Level SEO audit
+          report:
 
 
           ...
