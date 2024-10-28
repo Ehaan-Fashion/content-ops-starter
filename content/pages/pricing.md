@@ -64,9 +64,6 @@ sections:
 
           Here’s a structured plan for an effective Intermediate Level SEO audit
           report:
-
-
-          ...
         features:
           - 'Website URL: Include the URL of the site being audited.'
           - 'Business Goals: Briefly describe the business and its goals.'
