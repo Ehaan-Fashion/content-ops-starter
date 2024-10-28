@@ -130,6 +130,7 @@ sections:
             targeted keywords.Keyword Gaps: Identify potential keywords to
             target.Competitor Analysis: Compare keyword strategies with top
             competitors.
+          - ''
         image:
           url: /images/abstract-feature3.svg
           altText: Pricing plan 3
