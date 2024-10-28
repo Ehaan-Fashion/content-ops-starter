@@ -11,6 +11,6 @@ seo:
     "Discover the latest trends in women’s fashion! Explore our curated
     collection of stylish jewelry, home decor, accessories."
   addTitleSuffix: true
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/Set 1.webp
   metaTags: []
 ---
