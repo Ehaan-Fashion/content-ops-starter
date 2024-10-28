@@ -233,7 +233,7 @@ sections:
           - Fashion and Home Decor
         image:
           type: ImageBlock
-          url: /images/abstract-feature2.svg
+          url: /images/SEO 2.jpg
           altText: Pricing plan 2
         actions:
           - type: Button
