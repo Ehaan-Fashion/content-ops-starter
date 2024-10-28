@@ -62,7 +62,9 @@ sections:
           - 'Website URL: Include the URL of the site being audited.'
           - 'Business Goals: Briefly describe the business and its goals.'
           - 'Target Audience: Identify the target audience and market.'
-          - Feature four
+          - >-
+            Site Page Speed: Evaluate loading times using tools like Google
+            PageSpeed Insights.
         image:
           url: /images/abstract-feature2.svg
           altText: Pricing plan 2
