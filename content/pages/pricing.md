@@ -192,7 +192,7 @@ sections:
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
         features:
-          - Feature one
+          - One guest post on a relevant blog
           - Feature two
           - Feature three
           - Feature four
