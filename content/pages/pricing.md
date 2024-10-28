@@ -187,7 +187,7 @@ sections:
       - type: PricingPlan
         title: Basic
         price: $1
-        details: No credit card required
+        details: Per Post
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
