@@ -125,7 +125,11 @@ sections:
             of backlinks.Domain Authority: Check domain authority and compare
             with competitors.Social Signals: Evaluate social media presence and
             engagement.
-          - ''
+          - >-
+            Keyword AnalysisCurrent Keyword Rankings: List current rankings for
+            targeted keywords.Keyword Gaps: Identify potential keywords to
+            target.Competitor Analysis: Compare keyword strategies with top
+            competitors.
         image:
           url: /images/abstract-feature3.svg
           altText: Pricing plan 3
