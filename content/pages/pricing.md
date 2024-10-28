@@ -262,7 +262,7 @@ sections:
           - Standard Content. Unlimited words
           - 5 Revisions
           - Instant TAT
-          - ''
+          - All Niche Accepted
         image:
           type: ImageBlock
           url: /images/abstract-feature3.svg
