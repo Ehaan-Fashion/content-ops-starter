@@ -65,6 +65,7 @@ sections:
           - >-
             Site Page Speed: Evaluate loading times using tools like Google
             PageSpeed Insights.
+          - ''
         image:
           url: /images/abstract-feature2.svg
           altText: Pricing plan 2
