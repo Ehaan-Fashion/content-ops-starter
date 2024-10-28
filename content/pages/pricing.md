@@ -108,7 +108,7 @@ sections:
           Here’s a structured plan for an effective Enterprise Professional SEO
           audit report:
         features:
-          - Feature one
+          - 'Website URL: Include the URL of the site being audited.'
           - Feature two
           - Feature three
           - Feature four
