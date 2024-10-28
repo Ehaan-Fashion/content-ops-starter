@@ -2,30 +2,6 @@
 type: PageLayout
 title: Women Fashion
 sections:
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Moissanite Diamond Ring
-      color: text-dark
-    subtitle: Affordable Elegance and Ethical Brilliance
-    text: >+
-
-      Sparkle with elegance: a stunning moissanite ring designed for the modern
-      woman
-
-    actions: []
-    media:
-      type: ImageBlock
-      url: /images/Moisaanite 1 4.webp
-      altText: Fun feature preview
-    badge:
-      type: Badge
-      label: Women Fashion
-      color: text-primary
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
@@ -99,6 +75,30 @@ sections:
         justifyContent: flex-start
       subtitle:
         textAlign: center
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Moissanite Diamond Ring
+      color: text-dark
+    subtitle: Affordable Elegance and Ethical Brilliance
+    text: >+
+
+      Sparkle with elegance: a stunning moissanite ring designed for the modern
+      woman
+
+    actions: []
+    media:
+      type: ImageBlock
+      url: /images/Moisaanite 1 4.webp
+      altText: Fun feature preview
+    badge:
+      type: Badge
+      label: Women Fashion
+      color: text-primary
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
 slug: women fashion
 isDraft: false
 seo:
