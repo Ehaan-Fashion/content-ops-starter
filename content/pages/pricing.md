@@ -47,7 +47,7 @@ sections:
         type: PricingPlan
       - title: Intermediate
         price: $20
-        details: per month
+        details: per Report
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
