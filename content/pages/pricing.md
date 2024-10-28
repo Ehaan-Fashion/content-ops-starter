@@ -115,6 +115,7 @@ sections:
             Site Page Speed: Evaluate loading times using tools like Google
             PageSpeed Insights.
           - 'Crawlability: Check robots.txt and sitemap.xml files.'
+          - ''
         image:
           url: /images/abstract-feature3.svg
           altText: Pricing plan 3
