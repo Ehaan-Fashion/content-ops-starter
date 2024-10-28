@@ -193,7 +193,7 @@ sections:
         features:
           - One guest post on a relevant blog
           - 2 Do Follow Links
-          - Feature three
+          - Standard Content. 500 words
           - Feature four
         image:
           type: ImageBlock
