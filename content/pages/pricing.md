@@ -147,7 +147,7 @@ sections:
             improvement.Priority Levels: Rank recommendations by urgency and
             impact.
         image:
-          url: /images/abstract-feature3.svg
+          url: /images/SEO 3.jpg
           altText: Pricing plan 3
           type: ImageBlock
         actions:
