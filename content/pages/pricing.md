@@ -32,6 +32,7 @@ sections:
           - >-
             Architecture: Review site structure and navigation.Mobile
             Friendliness: Assess mobile responsiveness and usability.
+          - ''
         image:
           url: /images/abstract-feature1.svg
           altText: Pricing plan 1
