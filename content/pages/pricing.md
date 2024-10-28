@@ -181,7 +181,7 @@ sections:
           **Site Overview, Technical SEO & On Page**
 
 
-          Here’s a structured plan for an effective Intermediate Level SEO audit
+          Here’s a structured plan for an effective **Intermediate** SEO audit
           report:
         features:
           - 'Website URL: Include the URL of the site being audited.'
