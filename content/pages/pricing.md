@@ -185,7 +185,7 @@ sections:
     subtitle: Flexible Pricing Options Tailored to Your Guest Posting Needs
     plans:
       - type: PricingPlan
-        title: Developers
+        title: Basic
         price: Free
         details: No credit card required
         description: >-
