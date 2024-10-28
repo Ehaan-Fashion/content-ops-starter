@@ -30,6 +30,7 @@ sections:
           - 'Crawlability: Check robots.txt and sitemap.xml files.'
           - 'Indexability: Analyze indexed pages using Google Search Console'
           - 'Architecture: Review site structure and navigation.'
+          - ''
           - 'HTTPS Security: Check for SSL certificate and security issues.'
         image:
           url: /images/abstract-feature1.svg
