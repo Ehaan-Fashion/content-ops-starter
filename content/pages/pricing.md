@@ -223,7 +223,7 @@ sections:
         description: |
           Professional Package includes:
         features:
-          - Feature one
+          - One guest post on a relevant blog
           - Feature two
           - Feature three
           - Feature four
