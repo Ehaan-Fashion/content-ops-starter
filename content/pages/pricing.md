@@ -253,9 +253,8 @@ sections:
         title: Enterprise
         price: $10
         details: per post
-        description: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam.
+        description: |
+          Enterprise Package includes:
         features:
           - Feature one
           - Feature two
