@@ -224,7 +224,7 @@ sections:
           Professional Package includes:
         features:
           - One guest post on a relevant blog
-          - Feature two
+          - Feature Post
           - Feature three
           - Feature four
         image:
