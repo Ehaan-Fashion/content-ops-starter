@@ -2,6 +2,123 @@
 title: services pricing
 slug: pricing
 sections:
+  - type: PricingSection
+    title:
+      type: TitleBlock
+      text: Guest Posting Services for SEO Success
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    subtitle: Flexible Pricing Options Tailored to Your Guest Posting Needs
+    plans:
+      - type: PricingPlan
+        title: Basic
+        price: $1
+        details: per post
+        description: |
+          Basic Package includes:
+        features:
+          - One guest post on a relevant blog
+          - 2 Do Follow Links
+          - Standard Content. 500 words
+          - 1 Revision
+          - Tat 2-6 Hours
+          - Only Fashion Niche
+        image:
+          type: ImageBlock
+          url: /images/Guest-posting-SMALL.jpeg
+          altText: Pricing plan 1
+        actions:
+          - type: Button
+            label: Order Now
+            url: /
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-6
+              - pb-10
+              - pl-6
+              - pr-6
+            borderRadius: large
+      - type: PricingPlan
+        title: Professional
+        price: $5
+        details: per post
+        description: |
+          Professional Package includes:
+        features:
+          - One guest post on a relevant blog
+          - Feature Post
+          - 4 Do Follow Links
+          - Standard Content. 800 words
+          - 3 Revisions
+          - Instant TAT
+          - Fashion and Home Decor
+        image:
+          type: ImageBlock
+          url: /images/Guest-Posting-Service-for-Business.jpg
+          altText: Pricing plan 2
+        actions:
+          - type: Button
+            label: Order Now
+            url: /
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-6
+              - pb-10
+              - pl-6
+              - pr-6
+            borderRadius: large
+      - type: PricingPlan
+        title: Enterprise
+        price: $10
+        details: per post
+        description: |
+          Enterprise Package includes:
+        features:
+          - One guest post on a relevant blog
+          - 'Feature Post, Home Page'
+          - 6 Do Follow Links
+          - Standard Content. Unlimited words
+          - 5 Revisions
+          - Instant TAT
+          - All Niche Accepted
+        image:
+          type: ImageBlock
+          url: /images/Guest-Posting-Service-for-Business.jpg
+          altText: Pricing plan 3
+        actions:
+          - type: Button
+            label: Contact us
+            url: /
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-6
+              - pb-10
+              - pl-6
+              - pr-6
+            borderRadius: large
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: center
+      subtitle:
+        textAlign: center
   - title:
       text: SEO Audit Report
       color: text-dark
@@ -174,123 +291,6 @@ sections:
       subtitle:
         textAlign: center
     type: PricingSection
-  - type: PricingSection
-    title:
-      type: TitleBlock
-      text: Guest Posting Services for SEO Success
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    subtitle: Flexible Pricing Options Tailored to Your Guest Posting Needs
-    plans:
-      - type: PricingPlan
-        title: Basic
-        price: $1
-        details: per post
-        description: |
-          Basic Package includes:
-        features:
-          - One guest post on a relevant blog
-          - 2 Do Follow Links
-          - Standard Content. 500 words
-          - 1 Revision
-          - Tat 2-6 Hours
-          - Only Fashion Niche
-        image:
-          type: ImageBlock
-          url: /images/Guest-posting-SMALL.jpeg
-          altText: Pricing plan 1
-        actions:
-          - type: Button
-            label: Order Now
-            url: /
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-6
-              - pb-10
-              - pl-6
-              - pr-6
-            borderRadius: large
-      - type: PricingPlan
-        title: Professional
-        price: $5
-        details: per post
-        description: |
-          Professional Package includes:
-        features:
-          - One guest post on a relevant blog
-          - Feature Post
-          - 4 Do Follow Links
-          - Standard Content. 800 words
-          - 3 Revisions
-          - Instant TAT
-          - Fashion and Home Decor
-        image:
-          type: ImageBlock
-          url: /images/Guest-Posting-Service-for-Business.jpg
-          altText: Pricing plan 2
-        actions:
-          - type: Button
-            label: Order Now
-            url: /
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-6
-              - pb-10
-              - pl-6
-              - pr-6
-            borderRadius: large
-      - type: PricingPlan
-        title: Enterprise
-        price: $10
-        details: per post
-        description: |
-          Enterprise Package includes:
-        features:
-          - One guest post on a relevant blog
-          - 'Feature Post, Home Page'
-          - 6 Do Follow Links
-          - Standard Content. Unlimited words
-          - 5 Revisions
-          - Instant TAT
-          - All Niche Accepted
-        image:
-          type: ImageBlock
-          url: /images/Guest-Posting-Service-for-Business.jpg
-          altText: Pricing plan 3
-        actions:
-          - type: Button
-            label: Contact us
-            url: /
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-6
-              - pb-10
-              - pl-6
-              - pr-6
-            borderRadius: large
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
 seo:
   metaTitle: 'Pricing - Services SEO, Web Development, eCommerce, Guest Posting'
   metaDescription: >-
