@@ -16,8 +16,9 @@ sections:
       - title: Basic
         price: ''
         details: $10
-        description: |
+        description: >
           Here’s a structured **Basic** plan for an effective SEO audit report:
+          **(Site Overview & Technical SEO)**
         features:
           - 'Website URL: Include the URL of the site being audited.'
           - 'Business Goals: Briefly describe the business and its goals.'
