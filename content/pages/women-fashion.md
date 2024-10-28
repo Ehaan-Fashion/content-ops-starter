@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: Moissanite Diamond Ring
       color: text-dark
-    subtitle: ''
+    subtitle: Affordable Elegance and Ethical Brilliance
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
