@@ -26,8 +26,7 @@ sections:
           - 'Target Audience: Identify the target audience and market.'
           - >-
             Site Architecture: Review site structure and
-            navigation.Crawlability: Check robots.txt and sitemap.xml
-            files.Indexability: Analyze indexed pages using Google Search
+            navigation.Indexability: Analyze indexed pages using Google Search
             Console.Mobile Friendliness: Assess mobile responsiveness and
             usability.Page Speed: Evaluate loading times using tools like Google
             PageSpeed Insights.HTTPS Security: Check for SSL certificate and
