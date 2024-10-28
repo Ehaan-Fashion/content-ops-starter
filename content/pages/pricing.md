@@ -37,7 +37,7 @@ sections:
           - 'Mobile Friendliness: Assess mobile responsiveness and usability.'
           - 'HTTPS Security: Check for SSL certificate and security issues.'
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/SEO 1.jpg
           altText: Pricing plan 1
           type: ImageBlock
         actions:
