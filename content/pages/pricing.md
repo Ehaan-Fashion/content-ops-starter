@@ -257,7 +257,7 @@ sections:
           Enterprise Package includes:
         features:
           - One guest post on a relevant blog
-          - Feature two
+          - 'Feature Post, Home Page'
           - Feature three
           - Feature four
           - Feature five
