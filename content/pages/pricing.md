@@ -192,7 +192,6 @@ sections:
           Basic Package includes:
         features:
           - One guest post on a relevant blog
-          - ''
           - 2 Do Follow Links
           - Standard Content. 500 words
           - 1 Revision
