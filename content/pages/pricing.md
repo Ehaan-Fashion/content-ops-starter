@@ -21,7 +21,10 @@ sections:
           Here’s a structured plan for an effective SEO audit report:
 
         features:
-          - Feature one
+          - >-
+            Website URL: Include the URL of the site being audited.Business
+            Goals: Briefly describe the business and its goals.Target Audience:
+            Identify the target audience and market.
           - Feature two
           - Feature three
           - Feature four
