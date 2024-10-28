@@ -102,9 +102,11 @@ sections:
         price: $75
         details: per report
         description: >
-          **(Site Overview, Technical SEO, On Page, OFF Page, Keywords
-          Analysis):** Here’s a structured plan for an effective Enterprise
-          Professional Level SEO audit report:
+          **Site Overview, Technical SEO, On Page, OFF Page, Keywords Analysis**
+
+
+          Here’s a structured plan for an effective Enterprise Professional
+          Level SEO audit report:
         features:
           - Feature one
           - Feature two
