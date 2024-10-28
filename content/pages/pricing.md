@@ -24,7 +24,7 @@ sections:
           - >-
             Website URL: Include the URL of the site being audited. Target
             Audience: Identify the target audience and market.
-          - ''
+          - 'Business Goals: Briefly describe the business and its goals.'
           - >-
             Site Architecture: Review site structure and
             navigation.Crawlability: Check robots.txt and sitemap.xml
