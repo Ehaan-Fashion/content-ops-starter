@@ -60,7 +60,7 @@ sections:
 
         features:
           - 'Website URL: Include the URL of the site being audited.'
-          - Feature two
+          - 'Business Goals: Briefly describe the business and its goals.'
           - Feature three
           - Feature four
         image:
