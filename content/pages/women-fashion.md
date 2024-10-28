@@ -8,9 +8,11 @@ sections:
       text: Moissanite Diamond Ring
       color: text-dark
     subtitle: Affordable Elegance and Ethical Brilliance
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: >+
+
+      Sparkle with elegance: a stunning moissanite ring designed for the modern
+      woman
+
     actions:
       - type: Button
         label: Get started
