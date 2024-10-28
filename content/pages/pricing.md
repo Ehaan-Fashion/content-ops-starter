@@ -139,6 +139,7 @@ sections:
             Tools used.SEO Tools: Google Analytics, Google Search Console,
             SEMrush, Ahrefs, Moz.Performance Tools: GTmetrix, PageSpeed
             Insights, Mobile-Friendly Test.
+          - ''
         image:
           url: /images/abstract-feature3.svg
           altText: Pricing plan 3
