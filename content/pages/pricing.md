@@ -84,7 +84,7 @@ sections:
           altText: Pricing plan 2
           type: ImageBlock
         actions:
-          - label: Try for free
+          - label: Order Now
             url: /
             icon: arrowRight
             iconPosition: right
