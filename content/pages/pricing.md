@@ -22,9 +22,8 @@ sections:
 
         features:
           - >-
-            Website URL: Include the URL of the site being audited. Business
-            Goals: Briefly describe the business and its goals.Target Audience:
-            Identify the target audience and market.
+            Website URL: Include the URL of the site being audited. Target
+            Audience: Identify the target audience and market.
           - ''
           - >-
             Site Architecture: Review site structure and
