@@ -96,9 +96,12 @@ sections:
       - title: Enterprise
         price: Custom
         details: per report
-        description: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam.
+        description: >
+          **(Site Overview, Technical SEO, On Page, OFF Page, Keywords
+          Analysis): 
+
+
+          **
         features:
           - Feature one
           - Feature two
