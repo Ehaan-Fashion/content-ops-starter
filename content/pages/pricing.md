@@ -15,7 +15,7 @@ sections:
     plans:
       - title: Basic
         price: ''
-        details: No credit card required
+        details: $10
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
