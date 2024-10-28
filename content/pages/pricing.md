@@ -13,7 +13,7 @@ sections:
       Assess the Current Performance of a Website and Identify Areas for
       Improvement
     plans:
-      - title: Developers
+      - title: Basic
         price: Free
         details: No credit card required
         description: >-
