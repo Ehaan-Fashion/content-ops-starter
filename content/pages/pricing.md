@@ -260,7 +260,7 @@ sections:
           - 'Feature Post, Home Page'
           - 6 Do Follow Links
           - Standard Content. Unlimited words
-          - Feature five
+          - 5 Revisions
         image:
           type: ImageBlock
           url: /images/abstract-feature3.svg
