@@ -188,9 +188,8 @@ sections:
         title: Basic
         price: $1
         details: per post
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: |
+          Basic Package includes:
         features:
           - One guest post on a relevant blog
           - Feature two
