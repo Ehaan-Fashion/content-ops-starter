@@ -13,14 +13,7 @@ sections:
       Sparkle with elegance: a stunning moissanite ring designed for the modern
       woman
 
-    actions:
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+    actions: []
     media:
       type: ImageBlock
       url: /images/Moisaanite 1 4.webp
