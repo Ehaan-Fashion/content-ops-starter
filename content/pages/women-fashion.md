@@ -77,7 +77,7 @@ sections:
         subtitle: $117
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/Moisaanite 1 4.webp
           altText: Chunky Cotton Knit Throw
           elementId: ''
           styles:
