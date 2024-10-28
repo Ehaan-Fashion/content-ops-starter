@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Women Fashion
+title: Ehaan Women Fashion
 sections:
   - type: FeaturedItemsSection
     title:
