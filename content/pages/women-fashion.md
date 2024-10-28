@@ -7,7 +7,9 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: Women Fashion
-  metaDescription: Write here your new page's description including most relevant keywords.
+  metaDescription: >-
+    "Discover the latest trends in women’s fashion! Explore our curated
+    collection of stylish jewelry, home decor, mobile accessories."
   addTitleSuffix: true
   socialImage: /images/main-hero.jpg
   metaTags: []
