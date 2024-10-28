@@ -61,7 +61,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: 925 Silver Heart Jewelry Set for Women
-        subtitle: $ 44.99 – $ 90
+        subtitle: $ 15 I PKR 2000
         image:
           type: ImageBlock
           url: /images/Set 3.webp
