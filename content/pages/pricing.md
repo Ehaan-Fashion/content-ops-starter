@@ -94,7 +94,7 @@ sections:
             borderRadius: large
         type: PricingPlan
       - title: Enterprise
-        price: Custom
+        price: $50
         details: per report
         description: >
           **(Site Overview, Technical SEO, On Page, OFF Page, Keywords
