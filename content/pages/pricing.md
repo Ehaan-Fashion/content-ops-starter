@@ -261,7 +261,7 @@ sections:
           - 6 Do Follow Links
           - Standard Content. Unlimited words
           - 5 Revisions
-          - ''
+          - Instant TAT
         image:
           type: ImageBlock
           url: /images/abstract-feature3.svg
