@@ -56,9 +56,10 @@ sections:
       - title: Intermediate
         price: $20
         details: per report
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >+
+          Here’s a structured plan for an effective Intermediate Level SEO audit
+          report:
+
         features:
           - Feature one
           - Feature two
