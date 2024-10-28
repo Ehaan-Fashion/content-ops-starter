@@ -25,11 +25,9 @@ sections:
           - 'Business Goals: Briefly describe the business and its goals.'
           - 'Target Audience: Identify the target audience and market.'
           - >-
-            Site Architecture: Review site structure and navigation.Mobile
-            Friendliness: Assess mobile responsiveness and usability.Page Speed:
-            Evaluate loading times using tools like Google PageSpeed
-            Insights.HTTPS Security: Check for SSL certificate and security
-            issues.
+            Site ArcPage Speed: Evaluate loading times using tools like Google
+            PageSpeed Insights.HTTPS Security: Check for SSL certificate and
+            security issues.
           - 'Crawlability: Check robots.txt and sitemap.xml files.'
           - 'Indexability: Analyze indexed pages using Google Search Console'
         image:
