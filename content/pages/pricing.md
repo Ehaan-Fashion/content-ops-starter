@@ -135,6 +135,7 @@ sections:
             optimization.Local Citations: Check consistency of NAP (Name,
             Address, Phone) across directories.Reviews: Analyze customer reviews
             and responses.
+          - ''
         image:
           url: /images/abstract-feature3.svg
           altText: Pricing plan 3
