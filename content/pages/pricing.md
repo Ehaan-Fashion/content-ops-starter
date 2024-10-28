@@ -135,7 +135,10 @@ sections:
             optimization.Local Citations: Check consistency of NAP (Name,
             Address, Phone) across directories.Reviews: Analyze customer reviews
             and responses.
-          - ''
+          - >-
+            Tools used.SEO Tools: Google Analytics, Google Search Console,
+            SEMrush, Ahrefs, Moz.Performance Tools: GTmetrix, PageSpeed
+            Insights, Mobile-Friendly Test.
         image:
           url: /images/abstract-feature3.svg
           altText: Pricing plan 3
