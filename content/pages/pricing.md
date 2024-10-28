@@ -199,7 +199,7 @@ sections:
           - Only Fashion Niche
         image:
           type: ImageBlock
-          url: /images/SEO 1.jpg
+          url: /images/Guest-posting-SMALL.jpeg
           altText: Pricing plan 1
         actions:
           - type: Button
