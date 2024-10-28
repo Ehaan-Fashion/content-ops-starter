@@ -66,7 +66,7 @@ sections:
             Site Page Speed: Evaluate loading times using tools like Google
             PageSpeed Insights.
           - 'Crawlability: Check robots.txt and sitemap.xml files.'
-          - ''
+          - 'Indexability: Analyze indexed pages using Google Search Console'
         image:
           url: /images/abstract-feature2.svg
           altText: Pricing plan 2
