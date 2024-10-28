@@ -33,7 +33,7 @@ sections:
             usability.Page Speed: Evaluate loading times using tools like Google
             PageSpeed Insights.HTTPS Security: Check for SSL certificate and
             security issues.
-          - Feature three
+          - ''
           - Feature four
         image:
           url: /images/abstract-feature1.svg
