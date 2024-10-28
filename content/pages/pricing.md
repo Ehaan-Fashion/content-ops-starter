@@ -230,7 +230,7 @@ sections:
           - Standard Content. 800 words
           - 3 Revisions
           - Instant TAT
-          - ''
+          - Fashion and Home Decor
         image:
           type: ImageBlock
           url: /images/abstract-feature2.svg
