@@ -37,7 +37,7 @@ sections:
     items:
       - type: FeaturedItem
         title: 925 Silver Jewelry Set for Women
-        subtitle: $ 88 – $ 176
+        subtitle: $ 15 I PKR 2000
         image:
           type: ImageBlock
           url: /images/Set 1.webp
