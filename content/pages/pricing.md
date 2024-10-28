@@ -227,7 +227,7 @@ sections:
           - Feature Post
           - 4 Do Follow Links
           - Standard Content. 800 words
-          - 3 Revision
+          - 3 Revisions
           - Instant TAT
         image:
           type: ImageBlock
