@@ -119,6 +119,7 @@ sections:
           - 'Architecture: Review site structure and navigation.'
           - 'Mobile Friendliness: Assess mobile responsiveness and usability.'
           - 'HTTPS Security: Check for SSL certificate and security issues.'
+          - ''
         image:
           url: /images/abstract-feature3.svg
           altText: Pricing plan 3
