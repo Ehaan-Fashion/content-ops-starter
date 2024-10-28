@@ -19,7 +19,7 @@ sections:
         description: |
           **Site Overview & Technical SEO**
 
-          Here’s a structured **Basic** plan for an effective SEO audit report
+          Here’s a structured **Basic** plan for an effective SEO audit report:
 
           ...
         features:
