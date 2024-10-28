@@ -33,7 +33,7 @@
             "links": [
                 {
                     "label": "Women Fashion",
-                    "url": "/",
+                    "url": "https://ehaanfashion.netlify.app/women%20fashion/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
