@@ -130,7 +130,11 @@ sections:
             targeted keywords.Keyword Gaps: Identify potential keywords to
             target.Competitor Analysis: Compare keyword strategies with top
             competitors.
-          - ''
+          - >-
+            Local SEOGoogle My Business: Review GMB profile and
+            optimization.Local Citations: Check consistency of NAP (Name,
+            Address, Phone) across directories.Reviews: Analyze customer reviews
+            and responses.
         image:
           url: /images/abstract-feature3.svg
           altText: Pricing plan 3
