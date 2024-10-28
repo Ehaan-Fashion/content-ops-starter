@@ -120,6 +120,7 @@ sections:
           - 'Mobile Friendliness: Assess mobile responsiveness and usability.'
           - 'HTTPS Security: Check for SSL certificate and security issues.'
           - "On-Page SEO Analysis:\_Title Tags: Evaluate title tags for uniqueness and keyword inclusion.Meta Descriptions: Analyze meta descriptions for effectiveness.Header Tags: Check proper use of H1, H2, etc.Content Quality: Assess content for relevance, originality, and keyword optimization.Image SEO: Evaluate alt tags and file sizes.Internal Linking: Review internal link structure and anchor text."
+          - ''
         image:
           url: /images/abstract-feature3.svg
           altText: Pricing plan 3
