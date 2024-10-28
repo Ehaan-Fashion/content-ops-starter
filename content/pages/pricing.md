@@ -16,9 +16,10 @@ sections:
       - title: Basic
         price: ''
         details: $10
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: |+
+
+          Here’s a structured plan for an effective SEO audit report:
+
         features:
           - Feature one
           - Feature two
