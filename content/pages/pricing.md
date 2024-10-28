@@ -25,9 +25,8 @@ sections:
           - 'Business Goals: Briefly describe the business and its goals.'
           - 'Target Audience: Identify the target audience and market.'
           - >-
-            Site ArcPage Speed: Evaluate loading times using tools like Google
-            PageSpeed Insights.HTTPS Security: Check for SSL certificate and
-            security issues.
+            Site Page Speed: Evaluate loading times using tools like Google
+            PageSpeed Insights.
           - 'Crawlability: Check robots.txt and sitemap.xml files.'
           - 'Indexability: Analyze indexed pages using Google Search Console'
           - >-
