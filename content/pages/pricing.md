@@ -258,7 +258,7 @@ sections:
         features:
           - One guest post on a relevant blog
           - 'Feature Post, Home Page'
-          - Feature three
+          - 6 Do Follow Links
           - Feature four
           - Feature five
         image:
